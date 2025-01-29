@@ -1,0 +1,40 @@
+Tic-Tac-Toe with Tree Implementation (C++)
+📌 Description
+This project implements a Tic-Tac-Toe game in C++ using a tree-based approach to store game states. It enhances understanding of data structures and algorithms (DSA) by utilizing binary trees to track board configurations.
+
+✨ Features
+Tree-based storage of game states
+Manual player input (two-player mode)
+Winner detection and draw conditions
+Command-line interface (CLI)
+🛠 Installation
+Clone the repository:
+sh
+Copy
+Edit
+git clone https://github.com/your-username/tic-tac-toe-tree.git
+cd tic-tac-toe-tree
+Compile the C++ code:
+sh
+Copy
+Edit
+g++ tic_tac_toe.cpp -o tic_tac_toe
+Run the game:
+sh
+Copy
+Edit
+./tic_tac_toe
+🎮 How to Play
+Players take turns marking X and O on a 3x3 board.
+The game tree stores board states after each move.
+The game automatically detects winners or a draw.
+🖥 Example Board Input
+Copy
+Edit
+ 1 | 2 | 3  
+ 4 | 5 | 6  
+ 7 | 8 | 9  
+Players enter numbers 1-9 to place their mark on the board.
+
+📝 Contributing
+Feel free to submit issues or pull requests to improve the project
