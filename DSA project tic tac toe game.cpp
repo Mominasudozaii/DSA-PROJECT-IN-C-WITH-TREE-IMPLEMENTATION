@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 using namespace std;
-//ARZOO NAVEED
 //MOMINA HAROON
 // Define the TreeNode structure
 struct TreeNode {
